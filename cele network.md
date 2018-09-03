@@ -1,3 +1,7 @@
+## CELER NETWORK
+
+### 白皮书 https://www.celer.network/doc/CelerNetwork-Whitepaper.pdf
+
 ### 如何实现链下扩容?Celer带来全新解决方案
 https://mp.weixin.qq.com/s/IqdioVeQ1F-vbvZNeBIcLg
 
