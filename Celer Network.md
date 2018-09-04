@@ -25,3 +25,6 @@ https://mp.weixin.qq.com/s/iey07_yGPw_mXw4YV_NKFg
 https://mp.weixin.qq.com/s/2oPIj7vfgoAXa99XnoGmCQ
 
 ### 公众号： CelerNetwork技术社区
+
+### Celer Network Interview - Internet Scale Public Blockchain (Tech Breakdown)
+https://www.youtube.com/watch?v=SuBpiBCNoYA
