@@ -13,3 +13,6 @@ https://medium.com/s/story/how-does-the-blockchain-work-98c8cd01d2ae
 ### Liquidity.Network and Plasma
 https://medium.com/@liquidity.network/liquidity-network-and-plasma-bb7f5f33e3c4
 
+### Understanding Ethereum — Pertinent problems,Scalability, and Possible Solutions.
+https://medium.com/coinmonks/understanding-ethereum-pertinent-problems-scalability-and-possible-solutions-eb4fec0405be
+
