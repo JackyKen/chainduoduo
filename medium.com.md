@@ -16,3 +16,14 @@ https://medium.com/@liquidity.network/liquidity-network-and-plasma-bb7f5f33e3c4
 ### Understanding Ethereum — Pertinent problems,Scalability, and Possible Solutions.
 https://medium.com/coinmonks/understanding-ethereum-pertinent-problems-scalability-and-possible-solutions-eb4fec0405be
 
+### Decentralized Blockchain Governance
+https://medium.com/@bytemaster/decentralized-blockchain-governance-743f0273bf5a
+
+### Daniel Larimer
+https://medium.com/@bytemaster
+
+### Blockchain governance: takeaways from nine projects
+https://medium.com/@leo_pold_b/blockchain-governance-takeaways-from-nine-projects-8a80ad214d15
+
+### Understanding Public Blockchain Governance
+https://blockchainreview.io/public-blockchain-governance/
