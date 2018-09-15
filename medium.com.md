@@ -27,3 +27,6 @@ https://medium.com/@leo_pold_b/blockchain-governance-takeaways-from-nine-project
 
 ### Understanding Public Blockchain Governance
 https://blockchainreview.io/public-blockchain-governance/
+
+### Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit
+https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4
